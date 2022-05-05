@@ -12,6 +12,7 @@ Mobile developer
 
 <p align="left">
 <a href="https://developer.android.com/" target="_blank" rel="noreferrer"><img src="https://styles.redditmedia.com/t5_2r26y/styles/communityIcon_q69d9lxagoi31.png" width="36" height="36" alt="Android" /></a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/profile_images/1187814172307800064/MhnwJbxw_400x400.jpg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
